@@ -1,0 +1,1366 @@
+A Tour of Python Standard Library (1 of 3)
+A Tour of Python Standard Library (2 of 3)
+Building a Simple Configuration-driven Web Testing Framework With Twill
+Introduction to Object-Oriented Programming (1 of 3)
+Introduction to Object-Oriented Programming (2 of 3)
+Introduction to Object-Oriented Programming (3 of 3)
+PyCon 2009: A better Python for the JVM
+PyCon 2009: A Configuration Comparison in Python (#70)
+PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)
+PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 2 of 3)
+PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)
+PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)
+PyCon 2009: About Python Namespaces (and Code Objects) (#46)
+PyCon 2009: Advanced SQLAlchemy (Part 1 of 3)
+PyCon 2009: Advanced SQLAlchemy (Part 2 of 3)
+PyCon 2009: Advanced SQLAlchemy (Part 3 of 3)
+PyCon 2009: An Introduction to Google App Engine (Part 1 of 2)
+PyCon 2009: An Introduction to Google App Engine (Part 2 of 2)
+PyCon 2009: Application Developing with IronPython (Part 3 of 3)
+PyCon 2009: Application Developing with IronPython (Part 1 of 3)
+PyCon 2009: Application Developing with IronPython (Part 2 of 3)
+PyCon 2009: Behind the scenes of EveryBlock.com (#111)
+PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 3 of 3)
+PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 2 of 3)
+PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 1 of 3)
+PyCon 2009: Data Storage in Python - An Overview of Options (Part 2 of 3)
+PyCon 2009: Data Storage in Python - An Overview of Options (Part 1 of 3)
+PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)
+PyCon 2009: Designing a web framework: Django's design decisions (#75)
+PyCon 2009: Django in the Real World (Part 1 of 3)
+PyCon 2009: Django in the Real World (Part 2 of 3)
+PyCon 2009: Django in the Real World (Part 3 of 3)
+PyCon 2009: Django on Jython (#101)
+PyCon 2009: Easy Concurrency with Kamaelia (Part 2 of 2)
+PyCon 2009: Easy Concurrency with Kamaelia (Part 1 of 2)
+PyCon 2009: Eggs and Buildout Deployment in Python (Part 2 of 3)
+PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)
+PyCon 2009: Eggs and Buildout Deployment in Python (Part 3 of 3)
+PyCon 2009: Faster Python Programs through Optimization (Part 1 of 3)
+PyCon 2009: Faster Python Programs through Optimization (Part 3 of 3)
+PyCon 2009: Faster Python Programs through Optimization (Part 2 of 3)
+PyCon 2009: Functional Testing of Desktop Applications (#1)
+PyCon 2009: Giving back and helping expand the Python community. A roadmap for South America and Africa (#87)
+PyCon 2009: Hands on with Trac plugins (Part 1 of 2)
+PyCon 2009: Hands on with Trac plugins (Part 2 of 2)
+PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)
+PyCon 2009: How I Distribute Python applications on Windows - py2exe and InnoSetup (#108)
+PyCon 2009: How to Build Applications Linux Distributions will Package (#78)
+PyCon 2009: Intermediate Turbogears (Part 1 of 3)
+PyCon 2009: Intermediate Turbogears (Part 2 of 3)
+PyCon 2009: Intermediate Turbogears (Part 3 of 3)
+PyCon 2009: Internet Programming with Python (Part 1 of 3)
+PyCon 2009: Internet Programming with Python (Part 3 of 3)
+PyCon 2009: Internet Programming with Python (Part 2 of 3)
+PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 2 of 2)
+PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 1 of 2)
+PyCon 2009: Introduction to SQLAlchemy (Part 1 of 3)
+PyCon 2009: Introduction to SQLAlchemy (Part 2 of 3)
+PyCon 2009: Introduction to SQLAlchemy (Part 3 of 3)
+PyCon 2009: Introduction to TurboGears2 and WSGI (Part 2 of 2)
+PyCon 2009: Introduction to TurboGears2 and WSGI (Part 1 of 2)
+PyCon 2009: Keynote: Reddit: Steve Huffman and Alexis Ohanian
+PyCon 2009: Paver: easy build and deployment automation for Python projects (#13)
+PyCon 2009: Plenary: Afternoon Lightning Talks
+PyCon 2009: Plenary: Intro to Sprinting
+PyCon 2009: Plenary: Morning Lightning Talks (Saturday)
+PyCon 2009: Plenary: Morning Lightning Talks
+PyCon 2009: Plenary: Sprint Intro
+PyCon 2009: py.test II - cross-platform and distributed testing (Part 3 of 3)
+PyCon 2009: py.test II - cross-platform and distributed testing (Part 1 of 3)
+PyCon 2009: py.test II - cross-platform and distributed testing (Part 2 of 3)
+PyCon 2009: Pylons on Jython (#96)
+PyCon 2009: PyMite: Python-on-a-chip
+PyCon 2009: PyMite lightning talk
+PyCon 2009: Python 102 (Part 1 of 3)
+PyCon 2009: Python 102 (Part 2 of 3)
+PyCon 2009: Python 102 (Part 3 of 3)
+PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)
+PyCon 2009: Python 401: Some Advanced Topics (Part 2 of 3)
+PyCon 2009: Python 401: Some Advanced Topics (Part 3 of 3)
+PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 1 of 2)
+PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 2 of 2)
+PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 1 of 3)
+PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 3 of 3)
+PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 2 of 3)
+PyCon 2009: The (lack of) design patterns in Python (#60)
+PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)
+PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)
+PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)
+PyCon 2009: The State of Django (#76)
+PyCon 2009: The State of the Python Community: Leading the Python tribe (#118)
+PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 2 of 2)
+PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 1 of 2)
+PyCon 2009: Using Twisted Deferreds (Part 1 of 3)
+PyCon 2009: Using Twisted Deferreds (Part 2 of 3)
+PyCon 2009: Using Twisted Deferreds (Part 3 of 3)
+PyCon 2009: PyPy status talk (#72)
+Python 101 (1 of 2)
+Python 101 (2 of 2)
+Tour of Python Standard Library (3 of 3)
+Creating Rich Client Applications Using Dabo
+Dude, Where's My Database? (#133)
+Evolving Your Framework Under Fire (#150)
+How Python is guiding infrastructure construction in Africa (#84)
+Keynote: State of CPython
+Pycon 2010: 508 and You: Taking the Pain out of Accessibility (#119)
+Actors: What, Why, and How (#161)
+Advanced String Formatting (#117)
+An Underwater Python: Tortuga the Python Powered Robot (#175)
+Pycon 2010: Analysis: The other kind of testing (#185)
+Building Leafy Chat, DjangoDose, and Hurricane, Lessons Learned on the Real-Time Web with Python (#24)
+Cooperative Multitasking with Twisted: Getting Things Done Concurrently. (#11)
+Creating RESTful Web services with restish (#17)
+Cross platform application development and distribution (#116)
+Customizing your editor for maximum productivity (#171)
+Dealing with unsightly data in the real world. (#156)
+Debating 'til Dawn: Topics to keep you up all night (#183)
+Deconstruction of an Object (#62)
+Decorators From Basics to Class Decorators to Decorator Libraries (#138)
+Demystifying Non-Blocking and Asynchronous I/O (#164)
+Designing to Scale: The Story of ShootQ (#5)
+Distributed Programming with Pyro (#7)
+Diversity as a Dependency (#49)
+Django Deployment Workshop
+Django in Depth
+Easy command-line applications with cmd and cmd2 (#153)
+Ecommerce in Python: Introduction to Satchmo and GetPaid (#146)
+Eventlet: Asynchronous I/O with a synchronous interface (#141)
+Extending Java Applications with Jython (#65)
+Faster Python Programs Through Optimization
+Hacking the Social Web with Python
+Hg and Git : Can't we all just get along? (#154)
+How and why Python is being used to by the Military to model real-world battlefield scenarios (#13)
+How Are Large Applications Embedding Python? (#6)
+How does Enthought distribute packages? (#108)
+How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)
+How to write cross-interpreter Python programs (#101)
+Implementing Domain Specific Languages In Python
+Import this, that, and the other thing: custom importers (#9)
+Interfaces, Adapters and Factories (#181)
+Internationalizing your Django project (#74)
+Introduction to Django
+Introduction to Internet Programming
+Introduction to SQLAlchemy
+Introduction to Traits
+Introduction to Twisted
+Introduction to unittest (a.k.a. PyUnit) (#96)
+IronPython Tooling (#67)
+Keynote: Building the Python Community
+Keynote: Cadence, Quality and Design
+Keynote: Relentlessly Pursuing Opportunities With Python, or why the AIs will Spare Us All!
+Keynote: State of PyPy
+Keynote: State of Unladen Swallow
+Learning Hosting Best-Practices From WebFaction (#57)
+Managing the world's oldest Django project (#80)
+Mastering Python 3 I/O (part 1)
+Mastering Team Play: Four powerful examples of composing Python tools (#184)
+Modern version control: Mercurial internals (#113)
+New *and* Improved: Coming changes to unittest, the standard library test framework (#52)
+Optimal Resource Allocation using Python (#36)
+Optimizations And Micro-Optimizations In CPython (#38)
+Panel: Form Generator Generators (#28)
+Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy (#174)
+Persistent Graphs in Python with Neo4j (#140)
+Plenary: Friday Evening Lightning Talks
+Plenary: Intro to sprints
+Plenary: Saturday Evening Lightning Talks
+PLY and PyParsing (#93)
+Powerful Pythonic Patterns (#186)
+Powering the real-time web with Python: PubSubHubbub on App Engine (#173)
+py.test - Rapid Testing with Minimal Effort
+Pynie: Python 3 on Parrot (#148)
+Python's Dusty Corners (#182)
+Python 101
+Python 102
+Python 201: How to Solve It Using Python
+Python 3: The Next Generation (#48)
+Python for Large Astronomical Data Reduction and Analysis Systems (#107)
+Python in the Browser (#71)
+Python Metaprogramming (#64)
+Rapid multi-purpose testing (#81)
+Relational Database Applications
+Remixing Music Pythonically (#157)
+Revisioned Databases for MultiUser Editing (#86)
+Scaling Python webapps from zero to 50 million users - A top-down approach. (#134)
+Scaling your Python application on EC2 (#191)
+Scrape the Web: Strategies for programming websites that don't expect it
+Seattle: A Python-based Platform for Easy Development and Deployment of Networked Systems and Applications (#162)
+Simple WSGI composition: story of one refactoring (#51)
+Sprox: data driven web development (#137)
+Sunday Afternoon Lightning Talks
+Sunday Morning Lightning Talks
+Supercharging Web Communications: Integrating Python-based Apps with Salesforce.com CRM (#152)
+Teaching compilers with python (#87)
+Tests and Testability (#188)
+The Meaty Parts of Python: Closures, Decorators, List Comprehension, and Functional Constructs
+The Python and the Elephant: Large Scale Natural Language Processing with NLTK and Dumbo (#120)
+The speed of PyPy (#83)
+The state of Packaging (#63)
+The Zen of CherryPy (#111)
+Think Globally, Hack Locally - Teaching Python in Your Community (#122)
+Threading is not a model (#187)
+To relate or not to relate, that is the question (#99)
+TurboGears Geospatial Framework (#19)
+Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations (#169)
+Understanding the Python GIL (#82)
+Unladen Swallow: fewer coconuts, faster Python (#73)
+Using Python to Create Robotic Simulations for Planetary Exploration (#159)
+What every developer should know about database scalability (#21)
+What We've Learned From Building Basie (#85)
+Why not run all your tests all the time? A study of continuous integration systems (#160)
+wxPython I: Introduction to GUI Programming
+wxPython II: Introduction to GUI Programming and MVC
+PyCon 2010:Advanced SQL Alchemy
+Python in quantitative finance (#158)
+Small acts make great revolutions: crafting Python and Open Source communities in Rio de Janeiro (#78)
+The Mighty Dictionary (#55)
+The Ring of Python (#189)
+VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)
+Writing Books using Python and Open Source Software (#40)
+Panel: Python VMs
+"Dude, Where's My RAM?" - A deep dive into how Python uses memory
+Advanced Network Architectures With ZeroMQ
+Algorithmic Generation of OpenGL Geometry
+An (biased) survey of the python web
+An Introduction to Tornado
+An Open success for the cloud: OpenStack
+An outsider's look at co-routines.
+API Design: Lessons Learned
+API Design anti-patterns
+Backup Is Hard; Let's Go Shopping
+Best Practices for Impossible Deadlines
+Continuous deployment
+CouchDB and Python in practice
+Dependency management with Puppet
+Deploying Applications with zc.buildout
+Disqus: Serving 400 million people with Python
+Distributed Tasks with Celery
+Diversity in Tech: Improving our Toolset
+Django: Pitfalls I Encountered and How to Avoid Them
+Django Packages: A Case Study
+Documentation Driven Development
+Everything You Wanted To Know About Pickling, But Were Afraid To Ask!
+Exhibition of Atrocity
+Extreme Network Programming with Python and Linux
+Firefox Sync
+Friday Afternoon Lightning Talks
+Fun with Python's Newer Tools
+Genetic Programming in Python
+Get new contributors (and diversity) through outreach
+Getting the job: the do's and don'ts of landing a Python job
+Going Full Python - Threadless
+Greasing the Wheels of Exploration with Python
+Handling ridiculous amounts of data with probabilistic data structures
+Hidden Treasures in the Standard Library
+Hookbox: All Python web-frameworks, now real-time. Batteries Included.
+How to kill a patent with Python
+How to sell Python
+How to write obfuscated python
+HTSQL - an insanely good WSGI / REST interface to your favorite database
+HTTP in Python: which library for what task?
+Introduction to Parallel Computing on an NVIDIA GPU using PyCUDA
+Javascript for people who know Python
+Jython Concurrency
+Large Scale Data Conditioning &amp; Processing with Stackless Python and Pypes
+Linguistics of Twitter
+MongoDB + Pylons at Catch.com: Scalable Web Apps with Python and NoSQL
+Montreal-Python -- Lessons Learned from Bootstraping a Python Community
+mrjob: Distributed Computing for Everyone
+Opening the Flask
+Optimal Aircraft Engine Tuner Selection in Python
+Packaging, from Distutils to Distutils2
+Panel: Python in Schools: Teaching It and Teaching With It.
+Pluggable Django Patterns
+Prototyping Go's Select with stackless.py for Stackless Python
+PSF funds PyPy
+Python - The Secret Sauce in the Open Cloud
+Python and Robots: Teaching Programming in High School
+Python-Aware Python
+Python for High Performance Computing
+Python IDEs Panel
+Python.MiroCommunity.org + UniversalSubtitles.org
+Python Software Foundation Chairman Address
+Rapid Python used on Big Data to Discover Human Genetic Variation
+Reverse-engineering Ian Bicking's brain: inside pip and virtualenv
+Saturday Afternoon Lightning Talks
+Saturday Morning Lightning Talks
+Scaling Python past 100
+Serious Business: Python is not just for Engineering
+SOLVCON: A New Python-Based Software Framework for Massively Parallelized Numerical Simulations
+State of Pylons/TurboGears 2/repoze.bfg
+Statistical machine learning for text classification with scikit-learn
+Status of Unicode in Python 3
+Sunday Afternoon Lightning Talks
+Supercomputer and Cluster Application Performance Analysis using Python
+Supporting All Versions of Python All The Time With Tox
+Swarming the Web: Evolving the Perfect Config File
+Ten Years of Twisted
+Testing the Mobile (and Desktop) Web with Selenium 2.0 - Better, Faster, and more Pythonicly
+Testing with mock
+The Data Structures of Python
+The Development of Python and You
+The Pyramid FAQ
+The Python That Wasn't
+Through the Side Channel: Timing and Implementation Attacks in Python
+TUF: Secure Software Updates in Python
+Units Need Testing Too
+Useful Namespaces: Context Managers and Decorators
+Using Blender's new BPY Python API
+Using Coroutines to Create Efficient, High-Concurrency Web Applications
+Using Python 3 to Build a Cloud Computing Service for my Superboard II
+web2py secrets tutorial (1/2)
+What would you do with an ast?
+Why is Python slow and how PyPy can help?
+Writing Command-Line Tools using IronPython and Visual Studios
+Writing great documentation
+ZODB: A Python Persistence System
+Python 3: the next generation is here already
+Running Django Apps on Google App Engine
+1. PSF Sprints - Supporting the community one sprint at at time
+10. FOSS@RIT: Python-Powered Student Engagement
+11. A Startup Junkie's Journey to Python via Java, C#, Ruby and Scala
+12. Accessibility and You
+14. preshrunk-cotton: Windows Help Files for Lazy People
+18. Bump Pumps Up with Diesel
+19. Millions of Genes with Python and Jython
+2. Twisted Matrix High Scores
+22. Quantitative Finance Research with Python: Statistical arbitrage.
+23. Round the world with a million objects
+24. Indico - A Scientific Collaboration Platform
+25. An Overview of the Python African Computational Science and Engineering Tour Project 
+26. Data analysis and visualization in atmospheric sciences
+27. Reading and writing spatial data for the non-spatial programmer
+29. Keeping the Chandra satellite cool with Python and Xija
+3. Hacking for Humanity with Python: The CuiBono political app
+31. ProofCheck: Checking Mathematical Proofs written in TeX 
+32. Python in Computer-Aided Drug Discovery 
+34. CrossCompute is a web platform where users can run algorithms
+35. PyMC: Markov chain Monte Carlo in Python
+36. Using Python for robotics with Aldebaran's humanoid robot NAO.
+37. Building a Robot that Can Play Angry Birds on a Smartphone (or Robots are the Future of Testing)
+38. ABC: the mother of Python
+39. Python under PyCScope
+4. How the Tor Project uses Python
+40. MediaGoblin: The Road to Federation
+41. Git 'er Done Fast! Developing Apps for the Cloud with Django and PyMongo in 30 Minutes or Less
+42. The Future of Python Packaging
+43. What is IPv6 and why does my website I need it
+46. HTSQL : a navigational query language for relational databases
+48. Advanced Parallel Primitives in SPM.Python for Data and Graph Analytics
+7. The Artemis Project: Promoting Computer Science to High School Girls
+8. BoolPy: Using Python for Symbolic Boolean Algebra Simplification
+9. Developing Humanitarian Packages with Sugar and Python
+A Gentle Introduction to GIS
+A Noob Speaks to Noobs: Your First Site in the Cloud
+A resume-based WSGI Load Balancer
+Advanced Celery
+Advanced Security Topics
+Apache Cassandra and Python
+Bayesian statistics made (as) simple (as possible)
+Build reliable, traceable, distributed systems with ZeroMQ
+Building a Kinect game with Python
+Building A Python-Based Search Engine
+Building a Robot that Can Play Angry Birds on a Smartphone, (or Robots are the Future of Testing)
+Cache Rules Everything Around Me
+Certainty in an Uncertain World: Gaining Confidence through Security Testing
+Code Generation in Python: Dismantling Jinja
+Coroutines, event loops, and the history of Python generators
+Cross-Compiling Python & C Extensions for Embedded Systems
+Data analysis in Python with pandas 
+Data, Design, Meaning
+Decorators and Context Managers
+Deep Freeze: building better stand-alone apps with Python
+Designing Embedded Systems with Linux and Python
+DevOps for Python: Doing More With Less
+Diversity in practice: How the Boston Python User Group grew to 1700 people and over 15% women
+Django Form Processing Deep Dive 
+Django in Depth
+Django Templating: More Than Just Blocks
+Documenting Your Project With Sphinx
+Extracting musical information from sound
+Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes
+Fast Test, Slow Test
+Faster Python Programs through Optimization
+Flexing SQLAlchemy's Relational Power
+Getting the Most Out of Python Imports
+Graph Processing in Python
+Hand Coded Applications with SQLAlchemy
+High Performance Python I
+High Performance Python II
+How CherryPy supports Python 2 and 3
+How the PyPy JIT works
+How to get the most out of your PyPy
+How to make your websites more accessible
+Improving Documentation with "Beginner's Mind" (or: Fixing the Django Tutorial)
+Interfaces and Python
+Introduction and Welcome
+Introduction to Django
+Introduction to Game Development
+Introduction to Interactive Predictive Analytics in Python with scikit-learn
+Introduction to Metaclasses
+Introduction to PDB
+Introspecting Running Python Processes
+IPython in-depth: high-productivity interactive and parallel python
+IPython: Python at your fingertips
+David Beazley Keynote: Tinkering with PyPy
+Keynote: Guido Van Rossum
+Keynote: Paul Graham, YCombinator
+Keynote: Stormy Peters, Mozilla Corporation
+Mailman 3
+Make Sure Your Programs Crash
+Making interactive maps for the web
+Making Jython Faster and Better
+Making maps with Python
+Militarizing Your Backyard with Python: Computer Vision and the Squirrel Hordes
+MongoDB and Python
+More than just a pretty web framework, the Tornado IOLoop
+Non-Profit Centers of FLOSS Development
+Optimize Performance and Scalability with Parallelism and Concurrency
+pandas: Powerful data analysis tools for Python
+Parsing Horrible Things with Python
+Parsing sentences with the OTHER natural language tool: LinkGrammar
+Patterns for building large Pyramid applications
+PBS KIDS: Building a login system for kids and teens in Python
+Permission or Forgiveness?
+Plotting with matplotlib
+Polyglot Programming with Python: Python/Scala Interop
+Practical Machine Learning in Python
+Practicing Continuous Deployment
+Pragmatic Unicode, or, How do I stop the pain?
+Project Gado: Building an Open Archival Scanning Robot Using Python and Arduino
+Putting Python in PostgreSQL
+pytest - rapid and simple testing with Python
+Python and HDF5 - Fast Storage for Large Data
+Python Epiphanies
+Python for data lovers: explore it, analyze it, map it
+Python for makers
+Python, Linkers, and Virtual Memory
+Python Meets the Arduino
+Python Metaprogramming for Mad Scientists and Evil Geniuses
+Python Software Foundation Chairman's Address
+RESTful APIs With Tastypie
+Robot NAO
+Sage: Open Source Math in Python
+Saturday Evening Lightning talks (60 minutes)
+Saturday Morning Lightning talks
+Scalability at YouTube
+Sharing is Caring: Posting to the Python Package Index
+Sketching a Better Product
+Social Network Analysis with Python
+Spatial data and web mapping with Python
+Speedily Practical Large-Scale Tests
+SQL for Python Developers
+Static analysis of Python extension modules using GCC
+Stepping Through CPython
+Stop Mocking, Start Testing
+Stop Writing Classes
+Storing, manipulating and visualizing timeseries using open source packages in Python
+Storm: the Hadoop of Realtime Stream Processing
+Sunday Afternoon Lightning talks (90 minutes)
+Sunday Morning Lightning talks
+Testing and Django
+The Art of Subclassing
+The Email Package: Past, Present, and Future
+The Journey to Give Every Scientist a Supercomputer
+The Pyed Piper: A Modern Python Alternative to awk, sed and Other Unix Text Manipulation Utilities 
+Through The Ether And Back Again: What Happens To A Packet When You Send It
+Throwing Together Distributed Services With Gevent
+Transifex: Beautiful Python app localization
+Using fabric to standardize the development process
+Web scraping: Reliably and efficiently pull data from pages that don't expect it
+Web Server Bottlenecks And Performance Tuning
+web2py: ideas we stole and ideas we had
+What Python can learn from Java
+What you need to know about datetimes
+What's new and interesting in standard library
+What's New in Python on Windows
+Why PyPy by example
+Writing a Pyramid application
+Writing GIMP Plug-ins in Python
+5 powerful pyramid features
+A beginner's introduction to Pydata: how to build a minimal recommendation engine.
+[Poster] A Fast and Efficient Python Development Process for Small Teams
+A Gentle Introduction to Computer Vision
+A hands-on introduction to Python for beginning programmers
+Advanced Machine Learning with scikit-learn
+All-Singing All-Dancing Python Bytecode
+An Introduction to scikit-learn: Machine Learning in Python
+Analyzing Social Networks with Python
+API Design for Library Authors
+ApplePy: An Apple ][ emulator in Python
+Applied Parallel Computing with Python
+Asset Management in Python
+[Poster] Atabox
+Awesome Big Data Algorithms
+Bayesian statistics made simple
+Become a logging expert in 30 minutes
+Beginners Welcome: From Zero to GUIs in Four Months, via Writing a Tutorial
+Better Documentation Through Automation: Creating Sphinx Extensions
+Beyond Passwords: Secure Authentication with Mozilla Persona
+Biological Data Integration and Application for Personalized Cancer Treatment
+Biomedical Ontologies with Python
+Blame it on Caesar: What you need to know about dates, times and time zones
+Boundaries
+Building an image processing pipeline with Python
+Building full-stack scientific applications in Python
+Chef: Automating web application infrastructure
+Closing Address
+Code to Cloud in under 45 minutes
+Collecting & Analyzing Financial Data
+Community Event Planning
+Composability Through Multiple Inheritance
+Contribute with me! Getting started with open source development 
+Copyright and You
+Crypto 101
+Customizing the Django Admin: The How and the Why
+Cython vs SWIG, Fight!
+DaNKInDaB - A New Approach to Servers
+[Poster] Darkserver: Help to Debug Userspace
+Data Classification Using Python, Django and R
+[Poster] David vs Goliath: Fighting Big Budgets with Python
+Death by a thousand leaks: what statically-analysing 370 Python extensions looks like
+Deploy your Python app in 5 min with a PaaS
+Designers + Developers: Collaborating on your Python project
+[Poster] Developing an Early College IT/CS/Math Program Using Python
+Digital signal processing through speech, hearing, and Python
+Dispatch Magic
+Distributed Coordination with Python
+[Poster] Django Appointment Slots
+Documenting Your Project in Sphinx
+Dynamic Code Patterns: Extending Your Applications with Plugins
+EduPsych Theory for Python Hackers: A Whirlwind Overview
+Effective Django
+Elasticsearch (Part 1): Indexing and Querying
+[Poster] Enabling High Throughput Immunobiology by Integrating Django, numpy, matplotlib, and SQLAlchemy
+Encapsulation with descriptors
+Faster Python Programs through Optimization
+Fighting Cancer with Python
+Lightning Talks - Friday evening
+Fully Test-Driven Web Development with Django and Selenium
+Functional Programming with Python
+Funding and Coordinating Python Projects via Non-Profits
+Fusing Online and Face-to-Face Social Networks with Python and RFIDs
+Getting started with automated testing
+Gittip: Inspiring Generosity
+Going from web pages to web apps with Python
+"Good enough" is good enough!
+GR - A Universal Framework for Visualization Applications
+How Import Works
+How (Not) To Build An OSS Community
+How the Internet works
+How to Except When You're Excepting
+If You Code, You Should Write
+Integrating Jython with Java
+Intermediate Twisted: Test-Driven Networking Software
+Internationalization and Localization Done Right
+Introduction to PyGame
+Introduction to SQLAlchemy
+IPython in-depth: high-productivity interactive and parallel python
+Is Python Beginner Friendly?
+Iteration & Generators: the Python Way
+Keynote
+Keynote
+Keynote - Eben Upton
+Keynote - What Makes Python Awesome
+Kivy: Building GUI and Mobile apps with Python
+Learn Python Through Public Data Hacking
+Lessons Learned in Teaching Python
+Let Them Configure!
+Location, Location, Location
+Logical Failures
+Loop like a native: while, for, iterators, generators
+Make More Responsive Web Applications with SocketIO and gevent
+Making Apache suck less for hosting Python web applications.
+Making DISQUS Realtime.
+Measuring and modeling the complexity of children's books
+Messaging at Scale at Instagram
+Mobile Application Testing with Python and Selenium
+MTO On Blast: Using Python's Natural Language Toolkit to Model Gossip Blogs
+Music Theory and Performance Analysis with Sebastian and Czerny
+Namespaces in Python
+[Poster] Next-Generation Immunobiology Data Integration, Analysis and Visualization
+Numba: A Dynamic Python compiler for Science
+Opening Statements
+Panel: Directions for Packaging
+Planning and Tending the Garden: The Future of Early Childhood Python Education
+Plover: Thought to Text at 240 WPM
+Pony Object-Relational Mapper
+Porting Django apps to Python 3
+Purely Python Imaging with Pymaging
+PyNES: Python programming for Nintendo 8 bits.
+PyPy without the GIL
+Pyramid Auth Is Hard, Let's Ride Bikes
+Pyramid for Humans
+Python 3 Metaprogramming
+Python 3.3: Trust Me, It's Better than 2.7
+Python: A "Toy" Language
+Python at Netflix
+Python beyond the CPU
+Python Epiphanies
+Python for Data Analysis
+Python for Humans
+Python for Programmers: A Project-Based Tutorial
+Python for Robotics and Hardware Control
+Python Profiling
+Python XMPP
+Python's Class Development Toolkit
+Python's  Law
+Rapid Web Prototyping with Lightweight Tools
+[Poster] Read the Docs
+Realtime Tracking and Mapping of Geographic Objects using Python
+Rethinking Errors: Learning from Scala and Go
+[Poster] Retrieving Meaning from Words
+Reverse Engineering the Internet of Things
+Rhys interviews CYAN
+rpy2: Use R from the Comfort of Python
+Lightning Talks - Saturday evening
+Lightning Talks - Saturday morning
+Scaling community diversity outreach
+Scrapy: it GETs the web
+Serpint - Controlling Raspberry Pi GPIO with a Serial Port/Socket
+Server Log Analysis with Pandas
+Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
+SimpleCV - Computer Vision using Python
+Sink or swim: 5 life jackets to throw to New Coders
+So Easy You Can Even Do It in JavaScript: Event-Driven Architecture for Regular Programmers
+So you want to write an interpreter?
+Solid Python Application Deployments For Everybody
+[Poster] Spatial Clustering in Python
+Lightning Talks - Sunday evening
+Lightning Talks - Sunday morning
+sys._current_frames(): Take real-time x-rays of your software for fun and performance
+Teaching with the IPython Notebook
+The End Of Object Inheritance & The Beginning Of A New Modularity
+Lightning Talk - The future of Linux Containers
+The Guts of Unicode in Python
+The Magic of Metaprogramming
+The Naming of Ducks: Where Dynamic Types Meet Smart Conventions
+The SQLAlchemy Session - In Depth
+[Poster] The State of PyCscope
+Things to make writing tests easier
+This Old Video Site: How PBS streams video - and you can too!
+Transforming Code into Beautiful, Idiomatic Python
+Twisted Logic: Endpoints and Why You Shouldn't Be Scared of Twisted
+Use curses, don't swear
+Using futures for async GUI programming in Python 3.3
+Using Python to Code by Voice
+Visualizing Github, Part I: Data to Information
+Visualizing Github, Part II: Information to Meaning
+We Have, We Need - Disaster Relief in the Modern World
+What is the Python Software Foundation?
+What teachers really need from us
+Who are we? A sociological analysis of the indigenous Python tribe
+Whoosh, the open-source Python search library
+Who’s there?  - Home Automation with Arduino/RaspberryPi
+Why Pyramid is awesome: the example of Facebook applications
+Why you should use Python 3 for text processing
+Worry-Free Parsers with Parsley
+Write the Docs
+XBlock: Courseware Components from edX
+You can be a speaker at PyCon!
+0 to 00111100 with web2py
+2D/3D graphics with Python on mobile platforms
+A Scenic Drive through the Django Request-Response Cycle
+Advanced methods for creating decorators
+Advanced techniques for Web functional testing
+All Your Ducks In A Row: Data Structures in the Standard Library and Beyond
+An Introduction to Twisted
+Analyzing Rap Lyrics with Python
+Ansible - Python-Powered Radically Simple IT Automation
+Application Deployment State of the Onion
+Bayesian statistics made simple
+Beyond Defaults: Creating Polished Visualizations Using Matplotlib
+Blending art, technology, and light, Python for interactive and real time
+Build your own PiDoorbell! - Learn Home Automation with Python
+Building and breaking a Python sandbox
+Building the App
+By Your Bootstraps: Porting Your Application to Python3
+Cache me if you can: memcached, caching patterns and best practices
+Castle Anthrax: Dungeon Generation Techniques
+Character encoding and Unicode in Python
+Cheap Helicopters In My Living Room
+Closing address - PyCon 2014 (2014/04/13)
+Computer science fundamentals for self-taught programmers
+Contribute with me! Getting started with open source development
+Data intensive biology in the cloud: instrumenting ALL the things
+Data Wrangling for Kaggle Data Science Competitions -- An etude
+Decorators: A Powerful Weapon in your Python Arsenal
+Deliver Your Software In An Envelope
+Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features
+Designing Django's Migrations
+Designing Poetic APIs
+Developing Flask Extensions
+Discovering Python
+Distributed Computing Is Hard, Lets Go Shopping
+Distributed task processing using Celery
+Diving deeper into Machine Learning with Scikit-learn
+Diving into Open Data with IPython Notebook & Pandas
+Django for Web Designers and Front End Developers
+Django: The good parts
+Dynamics and Control with Python
+Enough Machine Learning to Make Hacker News Readable Again
+Exploring Machine Learning with Scikit-learn
+Fan-in and Fan-out: The crucial components of concurrency
+Farewell and Welcome Home: Python in Two Genders
+Fast Python, Slow Python
+Faster Python Programs through Optimization
+Flask by Example
+For Lack of a Better Name(server): DNS Explained.
+Games for Science: Creating interactive psychology experiments
+Garbage Collection in Python
+Generators: The Final Frontier
+Getting Hy on Python: How to implement a Lisp front-end to Python
+Getting Started Testing
+Getting Started with Django, a crash course
+Getting Started with SaltStack
+Hands-on intro to Python for beginning programmers
+Hands-on with Pydata: how to build a minimal
+Hello Physical World: A Crash Course on the Internet of Things
+Hitchhikers Guide to Participating in Open Source
+How to formulate a (science) problem and analyze it using Python code
+How to Get Started with Machine Learning
+Import-ant Decisions
+Improving automated testing with py.test
+In Depth PDB
+Introduction to Docker
+Introduction to game programming
+Introduction to Regular Expressions
+Introduction to SQLAlchemy
+Introduction to SQLAlchemy Core
+Introduction to Web (and data!) Scraping with Python
+IPython in depth: high productivity interactive and parallel python
+It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech
+Keynote - Fernando Pérez
+Keynote - Guido Van Rossum
+Keynote: Python, the next generation - Jessica McKellar
+Keynote - John Perry Barlow
+Keynote - Van Lindberg
+Kneel And Disconnect: Getting The Fastest Connection Out Of A Hostname
+Know Thy Neighbor: Scikit and the K-Nearest Neighbor Algorithm
+Let's Learn Twisted Python
+Lightning talks - Friday afternoon
+Lightning talks - Saturday Evening
+Lightning talks - Saturday morning
+Lightning talks - Sunday afternoon
+Lightning talks - Sunday morning
+Localization Revisited
+Mining Social Web APIs with IPython Notebook
+mrjob: Snakes on a Hadoop
+Multi-factor Authentication - Possession Factors
+My big gay adventure. Making, releasing and selling an indie game made in python.
+Opening Statements - PyCon 2014 (2014/04/11)
+Outreach Program for Women: Lessons in Collaboration
+Performance Testing and Profiling: A Virtuous Cycle
+Pickles are for Delis, not Software
+Postgres Performance for Humans
+PostgreSQL is Web Scale (Really :) )
+PostgreSQL Proficiency for Python People
+Programming an Autonomous 20 Foot Blimp with Python
+Puppet Modules: Apps for Ops
+Pushing Python: Building a High Throughput, Low Latency System
+PyCon 2014 Awards
+Python 3/2 Web Development with Pyramid
+Python Epiphanies
+Python for Social Scientists
+Python + Geographic Data = BFFs
+Python in the Browser: Intro to Brython
+Python packaging simplified, for end users, app developers
+Python Scraping Showdown: A performance and accuracy review
+Quick Wins for Better Website Security
+Realtime predictive analytics using scikit-learn & RabbitMQ
+REST is not enough: Using Push Notifications to better support your mobile clients
+Sane schema migrations with Alembic and SQLAlchemy
+Search 101: An Introduction to Information Retrieval
+See Docs Run. Run, Docs, Run!
+Set your code free: releasing and maintaining an open-source Python project
+Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10
+Smart Dumpster: Employing Python to Report Real-Time Resource
+So you want to be a full-stack developer? How to build a full-stack python
+So You Want to Build an API?
+Software Carpentry: Lessons Learned
+Software Engineering Research for Hackers: Bridging the Two Solitudes
+Straightening Out AngularJS with Python
+Subprocess to FFI: Memory, Performance, and Why You Shouldn't Shell Out
+TDD for web applications, from scratch
+Teaching Python: To Infinity and Beyond
+Technical on-boarding, training, and mentoring.
+The Day of the EXE Is Upon Us
+The Python Pipeline: Why you should reach out to local teachers
+The Sorry State of SSL
+The State of Crypto in Python
+The Young Coder: Let's Learn Python
+Track memory leaks in Python
+Turn Your Computer Into a Server
+Twisted Mixing
+Unit Testing Makes Your Code Better
+Upgrade your Web Development Toolchain
+What Is Async, How Does It Work, And When Should I Use It?
+What is coming in Python packaging
+Which messaging layer should you use if you want to build
+Writing RESTful web services with Flask
+3D Print Anything with the Blender API
+A Beginner's Guide to Test-driven Development
+A Winning Strategy with The Weakest Link: how to use weak references to make your code more robust
+Achieving Continuous Delivery: An Automation Story
+Advanced Git
+Ansible 101
+Ansible beyond YAML
+Avoiding Burnout, and other essentials of Open Source Self-Care
+Bayesian statistics made simple
+Beyond grep: Practical Logging and Metrics
+Beyond PEP 8 -- Best practices for beautiful intelligible code
+Build and test wheel packages on Linux, OSX & Windows
+Building a REST API Using Django & Django REST Framework
+Building secure systems
+Bytes in the Machine: Inside the CPython interpreter
+Choose Your Own WSGI Deployment Adventure
+Closing Messages
+Cutting Off the Internet: Testing Applications that Use Requests
+Data Science in Advertising: Or a future when we love ads
+Delving into the Django Admin
+Demystifying Docker
+Describing Descriptors
+Descriptors and Metaclasses
+Distributed Systems 101
+Django in Depth
+Docker 101: Introduction to Docker
+Don't Make Us Say We Told You So: virtualenv for New Pythonistas
+Eventually Correct: Testing Async Apps
+Experimental pure mathematics using Sage
+Exploring is never boring: understanding CPython without reading the code
+Exploring Minecraft and Python: Learning to Code Through Play
+Facts and Myths about Python names and values
+Finding Spammers & Scammers through Rate Tracking with Python & Redis
+Finding Your Groove: Contributing to CPython and Beyond
+Fire your supervisord running Python apps on CoreOS
+Flask Workshop
+Free Software, Free People
+Getting comfortable with web security: A hands-on session
+Getting to Jython 2.7 and beyond
+Good Test, Bad Test
+Graph Database Patterns in Python
+Grids, Streets and Pipelines: Building a linguistic street map with scikit-learn
+Gradual Typing for Python 3
+Hadoop with Python
+Hands-on Data Analysis with Python
+Hands-on with Pydata: how to build a minimal recommendation engine.
+Hash Functions and You: Partners in Freedom
+How our engineering environments are killing diversity (and how we can fix it).
+How to Be More Effective with Functions
+How to build a brain with Python
+How to interpret your own genome using (mostly) Python.
+How to make your code Python 2/3 compatible
+How to Write Reusable Code
+Hyperactive: HTTP/2 and Python
+I18N: World Domination the Easy Way
+Improve your development environments with virtualization
+Interactive data for the web
+Introduction to game programming with Kivy
+Introduction to HTTPS: A Comedy of Errors
+Introduction to Spark with python
+Investigating Python Wats
+IPython & Jupyter in depth: high productivity interactive and parallel python
+Is Your REST API RESTful?
+Keynote - Catherine Bracy
+Keynote  - Gabriella Coleman
+Keynote - Guido van Rossum
+Keynote - Jacob Kaplan-Moss
+Keynote - Van Lindberg - Pycon 2015
+Learning from other's mistakes: Data-driven analysis of Python code
+Lessons learned with asyncio ("Look ma, I wrote a distributed hash table!")
+Lightning Talks - April 10th
+Lightning Talks - April 11th 17h30
+Lightning Talks - April 12th 08h30
+Lightning Talks - April 11th 8h30
+Losing your Loops Fast Numerical Computing with NumPy
+Machine Learning 101
+Machine Learning with Scikit-Learn (I)
+Machine Learning with Scikit-Learn (II)
+Make web development awesome with visual diffing tools
+Make your own Smart Air Conditioner
+Making Beautiful Graphs in Python and Sharing Them
+Managing Your Infrastructure with SaltStack
+Modules and Packages: Live and Let Die!
+My Python's a little Rust-y
+Neural Nets for Newbies
+Oh, Come On Who Needs Bytearrays
+Open Source for Newcomers and the People Who Want to Welcome Them
+Opening Statements - Julia Evans
+Other people's messy data (and how not to hate it!)
+Pandas From The Ground Up
+Performance by the Numbers: analyzing the performance of web applications
+Porting Python to run without an OS
+PostgreSQL Proficiency for Python People
+Practical Graph/Network Analysis Made Simple
+PyPy.js: What? How? Why?
+Python by Immersion
+Python Concurrency From the Ground Up: LIVE!
+Python Epiphanies
+Python Performance Profiling: The Guts And The Glory
+Pythons are Deaf, So are Some Pythonistas
+Rethinking packaging, development and deployment
+Robots Robots Ra Ra Ra!!!
+Satellite mapping for everyone 
+Schemas for the Real World
+Serialization formats are not toys
+Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
+Ship it: Deployments with Pip
+Smart services & smart clients:  How micro-services change the way you build and deploy code.
+So you think you can PDB?
+Statistical inference with computational methods
+streamparse: real-time streams with Python and Apache Storm
+Super considered super!
+Systems programming as a swiss army knife
+TDD with Django, from scratch: a beginner's intro to testing and web development
+Technical Debt
+Techniques for Debugging Hard Problems
+Terminal whispering
+The Ethical Consequences Of Our Collective Activities
+The REST Ascendancy
+The (Slightly) Less Sorry State of SSL
+To ORM or not to ORM
+Twitter Network Analysis with NetworkX
+Type python, press enter. What happens?
+Usability Testing on the Cheap
+Using Supervisor For Fun And Profit
+WebSockets from the Wire Up
+What can programmers learn from pilots?
+What Python can learn from Erlang
+What to do when you need crypto
+Where in your RAM is "python san_diego.py"?
+Winning Machine Learning Competitions With Scikit-Learn
+"Words, words, words": Reading Shakespeare with Python
+Your Brain's API: Giving and Getting Technical Help
+Zen of Quality
+Write an Excellent Programming Blog
+Bake the Cookies, Wear the Dress: Connecting with Confident Authenticity
+The cobbler's children have no shoes, or building better tools for ourselves
+Exception and error handling in Python 2 and Python 3
+Bayesian statistics made simple
+Computational Statistics
+To mock, or not to mock, that is the question
+Reinventing Django for the Real-Time Web
+See Python, See Python Go, Go Python Go
+Wrestling Python into LLVM Intermediate Representation
+More Than Binary: Inclusive Gender Collection and You
+xonsh
+Dispelling the 'Genius Programmer' myth through code review
+Pyjion: who doesn’t want faster for free?
+Refactoring Python: Why and how to restructure your code
+Accelerating healthcare transactions with Python and PyPy
+Magic Wormhole- Simple Secure File Transfer
+Oneliner-izer: An Exercise in Constrained Coding
+Trainspotting: real-time detection of a train’s passing from video
+File descriptors, Unix sockets and other POSIX wizardry
+Django 1.8/1.9 and PostgreSQL: An Ever-Closer Union
+PostgreSQL Proficiency for Python People
+Git: A Peek Under the Hood
+Building Protocol Libraries The Right Way
+Postgres present and future
+Creating, building, testing, and documenting a Python project - a hands-on HOWTO
+Keynote
+The New Mobile Web: Service Worker, Push, and App Manifests
+Remote Calls != Local Calls: Graceful Degradation when Services Fail
+Documentation-driven development - lessons from the Django Project
+SQLite: Gotchas and Gimmes
+HTTP/2 and Asynchronous APIs
+Get Started with Git
+Prototyping New APIs with Flask
+Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic
+Pythons in A Container - Lessons Learned Dockerizing Python Micro-Services
+Designing secure systems with Object-Capabilities, Python, and Cap'n Proto
+What Is and What Can Be: An Exploration from `type` to Metaclasses
+Keeping cool, using a Raspberry PI to create a networked temperature sensor
+Teaching Python: The Hard Parts
+Kalman Filters for non-rocket science
+Small Batch Artisanal Bots- Let's Make Friends
+Documenting your project with Sphinx & Read the Docs
+Practical Network Analysis Made Simple
+What You Need to Know About Open Source Licenses
+Final Remarks and Conference Close
+Diving into the Wreck: a postmortem look at real-world performance
+Laser Cutters, 3D Printers, and Python
+Shipping Software To Users With Python
+Python Sorted Collections
+Python Language
+Python as a configuration language
+Outside-In TDD
+How I built a power debugger out of the standard library and things I found on the internet
+Get Instrumented: How Prometheus Can Unify Your Metrics
+Improving Learning Resources and Community for Deaf Sign Language Users through Deaf Awareness
+IPython Notebook in Data Intensive Communities: Accelerating the process of Discovery
+A Beginner's Guide to Deep Learning
+Revitalizing Python Game Development- Packaging, Performance, and Platforms
+Statistics for Hackers
+User Research for Non-Researchers
+Better Integration Testing with Cucumber
+Introduction to Docker and containers
+Networking without an OS
+Diving into Machine Learning through TensorFlow
+Building An Interpreter In RPython
+Keynote
+Building a Quantitative Trading Strategy To Beat the S&P500
+Usable Ops: How to make web infrastructure management easier.
+The computer science of marking computer science assignments
+Build a Better Hat Rack: All Contributions Welcome
+A tale of concurrency through creativity in Python: a deep dive into how gevent works.
+Seriously Strong Security on a Shoestring (CW)
+Django 101
+Machine Learning with Text in scikit-learn
+Removing Python's GIL: The Gilectomy
+What can software engineers learn from the medical field?
+Lightning Talks - 2016-05-30
+Lightning Talks - 2016-05-31 AM
+Lightning Talks - 2016-05-31PM
+Lightning Talks - 2016-06-01
+Keynote
+Pythonic Objects: implementing productive APIs with the Python Data Model
+Ansible 101
+The Hitchhiker's Guide to TLS & SSL
+Why can't we be friends: do corporations and FOSS really mix?
+Making an Impact with Python Natural Language Processing Tools
+Putting 1 million new words into the dictionary
+Publish your code so others can use it in 5 easy steps
+Better Testing With Less Code: Property Based Testing With Python
+Python Typology
+Advanced DNS Services for Securing Your Application and Enhancing User Privacy
+Build Serverless Realtime Data Pipelines with Python and AWS Lambda
+Introduction to Unit Testing in Python with Pytest
+Flask at Scale
+The Life Cycle of a Python Class
+Efficient Python for High-Performance Parallel Computing
+Descriptors and Metaclasses - Understanding and Using Python's More Advanced Features
+Faster Python Programs - Measure, don't Guess
+SHINY, LET'S BE BAD GUYS
+Antipatterns for Diversity
+Code Unto Others
+Machete-mode debugging: Hacking your way out of a tight spot
+Education Summit wrap-up: teaching Python — how hard can it be?
+Memory Management in Python - The Basics
+Keynote
+(PARTIAL) - Python Bootcamp
+Reliably Distributing Compiled Modules
+Here be Dragons - Writing Safe C Extensions
+Awaken your home: Python and the Internet of Things
+Computational Physics with Python: Planetary Orbits from Newton to Feynman
+PyData 101: Essential data science skills for every programmer, from data to model to visualization
+Python for Social Scientists: Cleaning and Prepping Data
+Unit Tests, Cluster Tests: A Comparative Introduction
+Discovering the world of Python through music
+A tale of two cellphones: Python on Android and iOS
+A Tour of Large-Scale Data Analysis Tools in Python
+Playing with Python Bytecode
+From Developer to Manager
+Click: A Pleasure To Write, A Pleasure To Use
+Diff It To Dig It
+The Fellowship of the Data
+Python for Public Health: Building Statistical Models of Ciliary Motion
+Python by Immersion
+Python Epiphanies
+HTTP Can Do That?!
+Let's read code: the requests library
+Thank you
+The Report Of Twisted’s Death or: Why Twisted and Tornado Are Relevant In The Asyncio Age
+Finding closure with closures
+Natural Language Processing with NLTK and Gensim
+Build Your First Web App with Hello Web App!
+Web Design for Non Designers
+Data Carpentry: An Introduction to Python for Data Analysis and Visualization
+Regular Expressions
+Computational Geometry in Python
+Thinking In Coroutines
+Python Software Foundation
+Structured Data from Unstructured Text
+Visual Diagnostics for More Informed Machine Learning Within and Beyond Scikit-Learn
+When is it good to be bad? Web scraping and data analysis of NHL penalties
+When the going gets tough, get TUF going
+Grok the GIL: Write Fast And Thread-Safe Python
+Slot or not: higher performance custom objects in pure Python
+Build a data pipeline with Luigi
+Time Series Analysis
+Yes, It's Time to Learn Regular Expressions
+Executing python functions in the linux kernel by transpiling to bpf
+Cython as a Game Changer for Efficiency
+Introduction to Digital Signal Processing
+Complexity Science
+Passing Exceptions 101: Paradigms in Error Handling
+Implementing Concurrency and Parallelism From The Ground Up
+Applied Modern Cryptography in Python
+Building Stream Processing Applications
+Awesome Command Line Tools
+5 ways to deploy your Python web app in 2017
+The trends in choosing licenses in Python ecosystem
+Type uWSGI; press enter; what happens?
+Designing secure APIs with state machines
+aiosmtpd - A better asyncio based SMTP server
+Parallel Data Analysis
+Python in The Serverless Era
+Big picture software testing: unit testing, Lean Startup, and everything in-between
+The Dictionary Even Mightier
+Web identity: OAuth2 and OpenIDConnect
+What's new in Python 3.6
+Building A Gigaword Corpus: Lessons on Data Ingestion, Management, and Processing for NLP
+Immutable Programming - Writing Functional Python
+bokeh: Data Visualization in Python
+Exploratory data analysis in python
+The Next Step: Finding Model Parameters With Random Walks
+Introduction to Statistical Modeling with Python
+Probabilistic Programming with PyMC3
+Requests Under The Hood
+How documentation works, and how to make it work for your project
+Contract-First API Development Using The OpenAPI Specification (Swagger)
+Share Your Code! Python Packaging Without Complication
+Looping Like a Pro in Python
+Python for mathematical visualization: a four-dimensional case study
+When the abyss gazes back: staring down Python's surprising internals
+Lights, camera, action! Scraping a great dataset to predict Oscar winners
+Deploy and scale containers with Docker native, open source orchestration
+The Fastest FizzBuzz in the West: Make Your Own Language with RPLY and RPython
+Education Summit Thursday Afternoon Room A105
+Education Summit Thursday Afternoon Room A106 Part 1
+Education Summit Thursday morning
+Debugging in Python 3.6: Better, Faster, Stronger
+Ending Py2Py3 compatibility in a user friendly manner   PyCon 2017
+Hacking Cars with Python
+Bayesian Statistical Analysis with Python
+Best Testing Practices for Data Science
+Network Analysis Made Simple
+Constructive Code Review
+Factory Automation with Python - Stories about Robots, Serial Ports, and Barcode Readers
+Fantastic Data and Where To Find Them: An introduction to APIs, RSS, and Scraping
+Community powered packaging: conda-forge
+Final remarks and conference close
+How to make a good library API
+In-Memory Event Resequencing: Realistic Testing For Impossible Bugs
+Gothic Colors: Using Python to understand color in nineteenth-century literature
+Solid Snakes or: How to Take 5 Weeks of Vacation
+IPython and Jupyter in Depth: High productivity, interactive Python
+Let's build a web framework!
+Keynote: The Unexpected Effectiveness of Python in Science
+The Python Visualization Landscape
+An introduction to secure web development with Django and Python
+Next Level Testing
+Leveraging Serverless Architecture for Powerful Data Pipelines
+Writing a C Python extension in 2017
+An Introduction to Reinforcement Learning
+Snakes on a Hyperplane: Python Machine Learning in Production
+Experiment Assignment on the Web
+Fuzzy Search Algorithms: How and When to Use Them
+How to Write and Debug C Extension Modules
+Title Available On Request: An Introduction to Lazy Evaluation
+What's in your pip toolbox?
+Temporal Data Structures with SQLAlchemy and Postgres
+Static Types for Python
+Python from Space: Analyzing Open Satellite Imagery Using the Python Ecosystem
+Snek in the Browser
+Decorators, unwrapped: How do they work?
+Keynote: Do It For Science
+The Memory Chronicles: A Tale of Two Pythons
+Keynote: Kubernetes for Pythonistas
+Django Admin: Basics and Beyond
+The Gilectomy: How's It Going?
+Prehistoric Patterns in Python
+Lightning talks May 19th, 2017 Evening session
+Lightning talks May 20th, 2017 Evening session session
+Lightning talks May 20th 2017 Morning session
+Lightning talks May 21th, 2017 Morning session
+Keynote: Python@Instragram
+Exploring Network Programmability with Python and YANG
+Decorators and descriptors decoded
+Unicode: what is the big deal?
+Tracing, Fast and Slow: Digging into and improving your web service’s performance
+Effectively running python applications in Kubernetes/OpenShift
+Library UX: Using abstraction towards friendlier APIs
+Dial M For Mentor
+It's time for datetime
+Piecing it Together: A beginner's guide to application configuration
+Dask: A Pythonic Distributed Data Science Framework
+Instagram Filters in 15 Lines of Python
+A gentle introduction to deep learning with TensorFlow
+Asynchronous Python for the Complete Beginner
+Microservices with Python and Flask
+ContainerOrchestration.py: The tutorial session
+Faster Python Programs - Measure, don't Guess
+Text is More Complicated Than You Think: Comparing and Sorting Unicode
+Automate AWS With Python
+Creating And Consuming Modern Web Services with Twisted
+The Glory of pdb's set_trace
+Packaging Let’s Encrypt: Lessons learned shipping Python code to hundreds of thousands of users
+Algorithmic Music Generation
+Panel Discussion: Paul Everitt with Guido van Rossum and others
+PSF Community Service Awards
+Modern Python Dictionaries -- A confluence of a dozen great ideas
+Using Functional Programming for efficient Data Processing and Analysis
+Re-Programming the Human Genome with Python
+How to write a Python transpiler
+Dr. Microservices, Or How I Learned to Stop Worrying and Love the API
+Hacking Classic Nintendo Games with Python
+One Data Pipeline to Rule Them All
+The Wild West of Data Wrangling
+Magic Method, on the wall, who, now, is the `__fairest__` one of all?
+IoT Lab with Micropython and Friends
+No More Sad Pandas: Optimizing Pandas Code for Speed and Efficiency
+I Installed Python 3.6 on Windows and I Liked It
+Python Epiphanies
+Rants and Ruminations From A Job Applicant After 💯 CS Job Interviews in Silicon Valley
+Know thy self: Methods and method binding
+Web programming from the beginning
+Look mum no hands! From blinking LEDs to a bike speedometer with MicroPython
+Level up! Rethinking the Web API framework.
+Human-Machine Collaboration for Improved Analytical Processes
+Intro to Bayesian Machine Learning with PyMC3 and Edward
+Hands-On Intro to Python for New Programmers
+Readability Counts
+Readable Regular Expressions
+Mastering scipy.spatial
+Optimizations which made Python 3.6 faster than Python 3.5
+Welcome to Pycon 2017
+Introduction to Threat Modeling
+async/await and asyncio in Python 3.6 and beyond
+Practical API Security
+Learning From Failure: Post Mortems
+Analyzing Data: What pandas and SQL Taught Me About Taking an Average
+Complexity Science
+Introduction to Digital Signal Processing
+Love your bugs
+Systemd: why you should care as a Python developer
+Docker for Data Science
+Randomness in Python: Creating Chaos in an Ordered Machine/Controlled Environment
+How We Do Identity Wrong
+Getting Started with Blockchains and Cryptocurrencies in Python
+Counter, Gauge, Upper 90 - Oh my!
+How Netflix does failovers in 7 minutes flat
+Taking Django Async
+Behavior-Driven Python
+Data Visualization in Mixed Reality with Python
+Flourishing FLOSS: Making Your Project Successful
+Pycamp 2K17: A Disclaimer
+Get your resources faster, with importlib.resources
+Visual Testing with PyCharm and pytest
+Type-checked Python in the real world
+Practical Sphinx
+STEAM Workshops using Jupyter Notebooks, JupyterHub, and Binder
+Statistics and probability: your first steps on the road to data science
+Coding through Adversity
+Visualizing Algorithms with Python and Programmable LEDs
+Bayesian Non-parametric Models for Data Science using PyMC3
+Colossal Cave Adventure in Python... in the browser!
+Intro to Spatial Analysis and Maps with Python
+Efficient shared memory data structures
+Code like an accountant: Designing data systems for accuracy, resilience and auditability
+Fighting Gerrymandering with PyMC3
+Dan Callahan - Keynote - PyCon 2018
+A practical guide to Singular Value Decomposition in Python
+Reinventing the Parser Generator
+import time_travel: A Primer on Timezones in Python
+Debugging PySpark -- Or trying to make sense of a JVM stack trace when you were minding your own bus
+Teaching Python 101
+By the Numbers: Python Community Trends in 2017/2018
+Jupyter Tools for Teaching and Learning
+Inside the Cheeseshop: How Python Packaging Works
+Hard Shouldn't be Hardship: Supporting Absolute Novices to Python
+The AST and Me
+Making Art with Python
+Network Analysis Made Simple: Part I
+Python Data Sonification for Science and Discovery
+One weird trick to becoming a better software developer
+Secrets of a WSGI master.
+Clearer Code at Scale: Static Types at Zulip and Dropbox
+Intermediate testing with Django:  Outside-in TDD and Mocking effectively
+Introduction to TDD with Django
+Beyond Unit Tests: Taking Your Testing to the Next Level
+How we designed an inclusivity-first conference on a shoestring budget and short timeline
+How to Write Deployment-friendly Applications
+Workflow Engines Up and Running
+Adapting from Spark to Dask: what to expect
+HOWTO Write a Function
+Exploratory Data Visualization with Vega, Vega-Lite, and Altair
+Performance Python: Seven Strategies for Optimizing Your Numerical Code
+A Bit about Bytes: Understanding Python Bytecode
+Programming microbes using Python
+Fighting the Good Fight: Python 3 in your organization
+Keynote - Jason Huggins 
+Building a Data Pipeline with Testing in Mind
+Thinking Outside the GIL with AsyncIO and Multiprocessing
+Invited Speaker - EduBlocks
+Build Teams as an Engineer
+Beyond scraping: how to use machine learning when you're not sure where to start
+Build a Search Engine with Python + Elasticsearch
+Strategies to Edit Production Data
+"WHAT IS THIS MESS?" - Writing tests for pre-existing code bases
+Python across the USA: This is the Bus.
+Augmenting Human Decision Making with Data Science
+Pipenv: The Future of Python Dependency Management
+Using pandas for Better (and Worse) Data Science
+Birding with Python and Machine Learning
+Automating Code Quality
+Solve Your Problem With Sloppy Python
+GenZeal: A new generation of thinkers who design, develop, and distribute for tomorrow
+Learning Python like a Pro
+Lightning Talks Friday 2018-05-11
+Lightning Talks Saturday Evening 2018-05-12
+Lightning Talks Thursday 2018-05-10
+Lights Camera Action! Scrape, explore, and model to predict Oscar winners & box office hits
+Don't Look Back in Anger: Wildman Whitehouse and the Great Failure of 1858
+Demystifying the Patch Function
+Software Library APIs: Lessons Learned from scikit-learn
+Build-a-GitHub-Bot Workshop
+What is a Python Core Developer?
+Effortless Logging: A deep dive into the logging module
+Python Performance Investigation by Example
+Democratizing Distributed Computing with Dask and JupyterHub
+Python for N00bs: A cognitive and educational approach
+Code Your Heart Out: Beginning Python for Human People with Feelings
+Going Serverless with OpenFaaS, Kubernetes, and Python
+Oops! I Committed My Password To GitHub!
+Faster Python Programs - Measure, don't Guess
+Web Applications, A to Z
+Network Analysis Made Simple: Part II
+Trio: Async concurrency for mere mortals
+Big-O: How Code Slows as Data Grows
+Mu - How to Make a Kids' Code Editor
+Graph Databases: Talking about your Data Relationships with Python
+Elegant Solutions For Everyday Python Problems
+Controlling apples with snakes: Automating mobile apps with Appium
+Listen, Attend, and Walk : Interpreting natural language navigational instructions
+Easy 2D Game Creation With Arcade
+API-Driven Django
+All in the timing: How side channel attacks work
+Types, Deeper Static Analysis, and you
+PSF Community Service Awards - Catherine Devlin Keynote - Final Remarks
+Python, Locales and Writing Systems
+Dataclasses:  The code generator to end all code generators
+User focused API Design
+When data meets education! The secret life of data in education
+A Python-flavored Introduction to Containers And Kubernetes
+Building a cross-platform native app with BeeWare
+Bowerbirds of Technology: Architecture and Teams at Less-than-Google Scale
+The Journey Over the Intermediate Gap
+Saturday Morning Lightning Talks + Keynotes
+Foundations of Numerical Computing in Python
+Surviving (and thriving!) when you are overloaded
+You're an expert. Here's how to teach like one.
+Beyond Django Basics
+CuPy: A NumPy-compatible Library for GPU
+Introduction to Python for Data Science
+Code Reviews Using Art Critique Principles
+Exploring Deep Learning Framework PyTorch
+The Hare Wins the Race: Getting the most out of RabbitMQ in distributed applications
+Python by Immersion
+Python Epiphanies
+Sunday Morning Lightning Talks + Keynote
+Down the rabbit hole. A 101 on reproducible workflows with Python
+The importance of exploratory data analysis and data visualization in machine learning
+Parallel Data Analysis with Dask
+Python 2 to 3: How to Upgrade and What Features to Start Using
+Using List Comprehensions and Generator Expressions For Data Processing
+Using GitHub, Travis CI, and Python to Introduce Collaborative Software Development
+Using Python to build an AI to play and win SNES StreetFighter II
+Reactive Programming with RxPy
+Deconstructing the US Patent Database
+Python 3: ten years later
+Pumping up Python modules using Rust
+The human nature of failure & resiliency
+Coding as Enrichment: How to Empower Students with Creative Coding Experiences
+There and Back Again: Disable and re-enable garbage collector at Instagram
